@@ -14,7 +14,7 @@ N/A
 
 ## Usage
 
-Click the link "" on the README and fill in the form, thereafter click the "Send" button on the bottom right conner below the form.
+Copy this link "https://hoduola5.github.io/01-Mini-Project-Landing-Page/" from the README, paste on the browser and fill in the form, thereafter click the "Send" button on the bottom right conner below the form.
 
 Here is the screenshot of what the form look like:
 
